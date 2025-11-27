@@ -1,0 +1,26 @@
+.emeka{
+    padding: 2px;
+    background-color:whitesmoke;
+    width: 100%;
+    border-radius: 25px;
+    padding-left: 20px;
+
+}
+.emeka button{
+    background-color: rgb(32, 103, 211);
+    padding: 10px 30px;
+    color: white;
+    border-radius: 25px;
+}
+.emeka button:hover{
+    background-color: rgb(32, 103, 211);
+    padding: 10px 30px;
+    color: white;
+    border-radius: 25px;
+}
+.emeka input{
+    width: 100%;
+    height: 43px;
+    outline: none;
+    border: 1px solid rgb(255, 254, 254);
+}

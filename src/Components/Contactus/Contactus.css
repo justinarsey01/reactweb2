@@ -1,0 +1,22 @@
+.cont1{
+    border-top: 3px solid rgb(32, 103, 211);
+    border-bottom: 3px solid rgb(32, 103, 211);
+    box-shadow: 0 3px 3px 2px gainsboro;
+    margin-bottom: 1rem;
+    margin-right: 20px;
+    height: 400px;
+
+
+    
+    
+}
+.cont2{
+    border-top: 3px solid rgb(32, 103, 211);
+    border-bottom: 3px solid rgb(32, 103, 211);
+    box-shadow: 0 3px 3px 2px gainsboro;
+   justify-content: center;   
+    
+}
+.umere{
+    display: flex;
+}

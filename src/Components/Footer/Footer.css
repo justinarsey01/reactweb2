@@ -1,0 +1,14 @@
+.urem img{
+    width: 100px;
+    height: 100px;
+}
+.myfoot a {
+    text-decoration: none!important;
+    font-weight: bolder;
+    list-style: none;
+
+}
+.myfoot h6{
+    font-weight: bolder;
+    color: rgb(32, 103, 211);
+}

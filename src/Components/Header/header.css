@@ -1,0 +1,29 @@
+.navtag{
+    display: block;  
+}
+
+.brand img{ height: 60px;
+    width: 60px;
+    margin-left: 3px;
+}
+
+.text-white{
+    font-weight: bolder;
+    text-decoration: none;
+    margin-right: 20px;
+     border: 2px solid rgb(171, 195, 218);
+     border-radius: 8px;
+     box-shadow: 0 1px 1px 1px rgb(35, 35, 37);
+     padding: 1.5px;
+    
+}
+.text-white:hover{
+     border: 2px solid rgb(252, 253, 253);
+    color: white;
+    background-color: rgb(192, 195, 228);
+    border-radius: 8px;
+    box-shadow: 0 1px 1px 1px rgb(226, 36, 36);
+}
+.navcon{
+    margin-left: 6px;
+}
